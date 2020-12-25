@@ -6,7 +6,7 @@ export const SignupForm = () => {
       <div className="flex flex-wrap lg:justify-between lg:items-center">
         <div>
           <h3 className="text-2xl lg:text-4xl font-bold text-blue-500 dark:text-blue-400 tracking-tight">
-            ✆ 9348210687
+            ✆ 7749076327
           </h3>
           <p className="text-blue-800 dark:text-blue-500 font-medium text-base lg:text-lg pb-4 lg:pb-0 pt-1">
             10 am - 8 pm
