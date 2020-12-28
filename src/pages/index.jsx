@@ -8,7 +8,7 @@ export default ({ data }) => {
     <Layout>
       <SiteMetadata
         title="ALEX Construction Materials"
-        description="Providing Construction Material anywhere in India at right price. ✆ 7749076327"
+        description="Providing Construction Material anywhere in India at right price. ✆ 7749076327 "
         image={data.hero.url}
       />
 
