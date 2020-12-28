@@ -9,7 +9,15 @@ export const SignupForm = () => {
             ✆ 7749076327
           </h3>
           <p className="text-blue-800 dark:text-blue-500 font-medium text-base lg:text-lg pb-4 lg:pb-0 pt-1">
-            10 am - 8 pm
+            10 am ~ 5 pm
+            <hr></hr>
+            email : constructionanugrha@gmail.com
+            <hr></hr>
+            Titilagarh, Kjurpada
+            <br></br>
+            Dist - Bolangir
+            <br></br>
+            Oidsha 767033
           </p>
         </div>
         <div className="flex w-full md:w-1/2 lg:w-auto">
